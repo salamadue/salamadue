@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salamadue
 - 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning linux, python, azure 
+- 🌱 I’m currently learning linux, python, azure, docker, kubernetes, terraform,  
 - 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me skype: https://join.skype.com/invite/zSbxn3qIkNJS
 
